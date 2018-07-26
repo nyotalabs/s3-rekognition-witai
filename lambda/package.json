@@ -1,0 +1,15 @@
+{
+  "name": "s3-rekognition-witai",
+  "version": "1.0.0",
+  "description": "load photo to S3, pass through rekognition, store in Dynamo, then get text analysis from wit.ai",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.100.0",
+    "node-wit": "*"
+  }
+}
