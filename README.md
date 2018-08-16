@@ -8,5 +8,8 @@ I hopefully laid the steps to success in the [Instructions](Instructions.md) fil
 
 If you want to skip all that mishegas and just jump into code then: 
 
-    A. I think we are kindred spirits
-    B. The main code is in the lambda folder.  Just make sure to create a role with "AWSLambdaFullAccess" and "AmazonRekognitionFullAccess" policies.
+1. I think we are kindred spirits
+
+2. The main code is in the lambda folder.  Just make sure to create a role with "AWSLambdaFullAccess" and "AmazonRekognitionFullAccess" policies.
+
+3. I recommend using a 10 second timeout for the lambda function.

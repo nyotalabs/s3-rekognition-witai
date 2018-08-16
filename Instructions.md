@@ -34,7 +34,7 @@ There are some images for the instructions in the images folder that might help 
 
 2. Get your node dependencies.  Then zip up the contents of the lambda folder.
 
-3. Create a lambda function (https://console.aws.amazon.com/lambda/home) from scratch with a name your like and node 8.10 selected.  Select the role you created earlier.
+3. Create a lambda function (https://console.aws.amazon.com/lambda/home) from scratch with a name your like and node 8.10 selected.  Select the role you created earlier.  I recommend using a 10 second timeout for the lambda function.
 
 4. Upload your zip file you just created.
 
