@@ -4,7 +4,7 @@ This tutorial will teach you how to take images stored in AWS S3 send them to Am
 
 This tutorial is laid out so that hopefully you will see all the different aspects of the application itself since you will likely use it as part of a larger project not really as a standalone project.  Who knows I might just create a node package eventually since that might help some people as well.
 
-I hopefully laid the steps to success in the [Instructions](Instructions.md) file
+I hopefully laid the steps to success in the [Instructions](https://github.com/nyotalabs/s3-rekognition-witai/blob/master/Instructions.md) file
 
 If you want to skip all that mishegas and just jump into code then: 
 
